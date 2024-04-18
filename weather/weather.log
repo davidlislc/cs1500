@@ -1,0 +1,784 @@
+{
+  "time": "Today",
+  "temp": 70
+}
+{
+  "time": "Today",
+  "temp": 46
+}
+{
+  "time": "Today",
+  "temp": 57
+}
+{
+  "time": "Today",
+  "temp": 40
+}
+{
+  "time": "Today",
+  "temp": 51
+}
+{
+  "time": "Today",
+  "temp": 33
+}
+{
+  "time": "Today",
+  "temp": 55
+}
+{
+  "time": "Today",
+  "temp": 35
+}
+{
+  "time": "Today",
+  "temp": 62
+}
+{
+  "time": "Today",
+  "temp": 46
+}
+{
+  "time": "Today",
+  "temp": 62
+}
+{
+  "time": "Today",
+  "temp": 40
+}
+{
+  "time": "Today",
+  "temp": 59
+}
+{
+  "time": "Today",
+  "temp": 39
+}
+{
+  "time": "Tonight",
+  "temp": 70
+}
+{
+  "time": "Tonight",
+  "temp": 46
+}
+{
+  "time": "Tonight",
+  "temp": 57
+}
+{
+  "time": "Tonight",
+  "temp": 40
+}
+{
+  "time": "Tonight",
+  "temp": 51
+}
+{
+  "time": "Tonight",
+  "temp": 33
+}
+{
+  "time": "Tonight",
+  "temp": 55
+}
+{
+  "time": "Tonight",
+  "temp": 35
+}
+{
+  "time": "Tonight",
+  "temp": 62
+}
+{
+  "time": "Tonight",
+  "temp": 46
+}
+{
+  "time": "Tonight",
+  "temp": 62
+}
+{
+  "time": "Tonight",
+  "temp": 40
+}
+{
+  "time": "Tonight",
+  "temp": 59
+}
+{
+  "time": "Tonight",
+  "temp": 39
+}
+{
+  "time": "Friday",
+  "temp": 70
+}
+{
+  "time": "Friday",
+  "temp": 46
+}
+{
+  "time": "Friday",
+  "temp": 57
+}
+{
+  "time": "Friday",
+  "temp": 40
+}
+{
+  "time": "Friday",
+  "temp": 51
+}
+{
+  "time": "Friday",
+  "temp": 33
+}
+{
+  "time": "Friday",
+  "temp": 55
+}
+{
+  "time": "Friday",
+  "temp": 35
+}
+{
+  "time": "Friday",
+  "temp": 62
+}
+{
+  "time": "Friday",
+  "temp": 46
+}
+{
+  "time": "Friday",
+  "temp": 62
+}
+{
+  "time": "Friday",
+  "temp": 40
+}
+{
+  "time": "Friday",
+  "temp": 59
+}
+{
+  "time": "Friday",
+  "temp": 39
+}
+{
+  "time": "Friday Night",
+  "temp": 70
+}
+{
+  "time": "Friday Night",
+  "temp": 46
+}
+{
+  "time": "Friday Night",
+  "temp": 57
+}
+{
+  "time": "Friday Night",
+  "temp": 40
+}
+{
+  "time": "Friday Night",
+  "temp": 51
+}
+{
+  "time": "Friday Night",
+  "temp": 33
+}
+{
+  "time": "Friday Night",
+  "temp": 55
+}
+{
+  "time": "Friday Night",
+  "temp": 35
+}
+{
+  "time": "Friday Night",
+  "temp": 62
+}
+{
+  "time": "Friday Night",
+  "temp": 46
+}
+{
+  "time": "Friday Night",
+  "temp": 62
+}
+{
+  "time": "Friday Night",
+  "temp": 40
+}
+{
+  "time": "Friday Night",
+  "temp": 59
+}
+{
+  "time": "Friday Night",
+  "temp": 39
+}
+{
+  "time": "Saturday",
+  "temp": 70
+}
+{
+  "time": "Saturday",
+  "temp": 46
+}
+{
+  "time": "Saturday",
+  "temp": 57
+}
+{
+  "time": "Saturday",
+  "temp": 40
+}
+{
+  "time": "Saturday",
+  "temp": 51
+}
+{
+  "time": "Saturday",
+  "temp": 33
+}
+{
+  "time": "Saturday",
+  "temp": 55
+}
+{
+  "time": "Saturday",
+  "temp": 35
+}
+{
+  "time": "Saturday",
+  "temp": 62
+}
+{
+  "time": "Saturday",
+  "temp": 46
+}
+{
+  "time": "Saturday",
+  "temp": 62
+}
+{
+  "time": "Saturday",
+  "temp": 40
+}
+{
+  "time": "Saturday",
+  "temp": 59
+}
+{
+  "time": "Saturday",
+  "temp": 39
+}
+{
+  "time": "Saturday Night",
+  "temp": 70
+}
+{
+  "time": "Saturday Night",
+  "temp": 46
+}
+{
+  "time": "Saturday Night",
+  "temp": 57
+}
+{
+  "time": "Saturday Night",
+  "temp": 40
+}
+{
+  "time": "Saturday Night",
+  "temp": 51
+}
+{
+  "time": "Saturday Night",
+  "temp": 33
+}
+{
+  "time": "Saturday Night",
+  "temp": 55
+}
+{
+  "time": "Saturday Night",
+  "temp": 35
+}
+{
+  "time": "Saturday Night",
+  "temp": 62
+}
+{
+  "time": "Saturday Night",
+  "temp": 46
+}
+{
+  "time": "Saturday Night",
+  "temp": 62
+}
+{
+  "time": "Saturday Night",
+  "temp": 40
+}
+{
+  "time": "Saturday Night",
+  "temp": 59
+}
+{
+  "time": "Saturday Night",
+  "temp": 39
+}
+{
+  "time": "Sunday",
+  "temp": 70
+}
+{
+  "time": "Sunday",
+  "temp": 46
+}
+{
+  "time": "Sunday",
+  "temp": 57
+}
+{
+  "time": "Sunday",
+  "temp": 40
+}
+{
+  "time": "Sunday",
+  "temp": 51
+}
+{
+  "time": "Sunday",
+  "temp": 33
+}
+{
+  "time": "Sunday",
+  "temp": 55
+}
+{
+  "time": "Sunday",
+  "temp": 35
+}
+{
+  "time": "Sunday",
+  "temp": 62
+}
+{
+  "time": "Sunday",
+  "temp": 46
+}
+{
+  "time": "Sunday",
+  "temp": 62
+}
+{
+  "time": "Sunday",
+  "temp": 40
+}
+{
+  "time": "Sunday",
+  "temp": 59
+}
+{
+  "time": "Sunday",
+  "temp": 39
+}
+{
+  "time": "Sunday Night",
+  "temp": 70
+}
+{
+  "time": "Sunday Night",
+  "temp": 46
+}
+{
+  "time": "Sunday Night",
+  "temp": 57
+}
+{
+  "time": "Sunday Night",
+  "temp": 40
+}
+{
+  "time": "Sunday Night",
+  "temp": 51
+}
+{
+  "time": "Sunday Night",
+  "temp": 33
+}
+{
+  "time": "Sunday Night",
+  "temp": 55
+}
+{
+  "time": "Sunday Night",
+  "temp": 35
+}
+{
+  "time": "Sunday Night",
+  "temp": 62
+}
+{
+  "time": "Sunday Night",
+  "temp": 46
+}
+{
+  "time": "Sunday Night",
+  "temp": 62
+}
+{
+  "time": "Sunday Night",
+  "temp": 40
+}
+{
+  "time": "Sunday Night",
+  "temp": 59
+}
+{
+  "time": "Sunday Night",
+  "temp": 39
+}
+{
+  "time": "Monday",
+  "temp": 70
+}
+{
+  "time": "Monday",
+  "temp": 46
+}
+{
+  "time": "Monday",
+  "temp": 57
+}
+{
+  "time": "Monday",
+  "temp": 40
+}
+{
+  "time": "Monday",
+  "temp": 51
+}
+{
+  "time": "Monday",
+  "temp": 33
+}
+{
+  "time": "Monday",
+  "temp": 55
+}
+{
+  "time": "Monday",
+  "temp": 35
+}
+{
+  "time": "Monday",
+  "temp": 62
+}
+{
+  "time": "Monday",
+  "temp": 46
+}
+{
+  "time": "Monday",
+  "temp": 62
+}
+{
+  "time": "Monday",
+  "temp": 40
+}
+{
+  "time": "Monday",
+  "temp": 59
+}
+{
+  "time": "Monday",
+  "temp": 39
+}
+{
+  "time": "Monday Night",
+  "temp": 70
+}
+{
+  "time": "Monday Night",
+  "temp": 46
+}
+{
+  "time": "Monday Night",
+  "temp": 57
+}
+{
+  "time": "Monday Night",
+  "temp": 40
+}
+{
+  "time": "Monday Night",
+  "temp": 51
+}
+{
+  "time": "Monday Night",
+  "temp": 33
+}
+{
+  "time": "Monday Night",
+  "temp": 55
+}
+{
+  "time": "Monday Night",
+  "temp": 35
+}
+{
+  "time": "Monday Night",
+  "temp": 62
+}
+{
+  "time": "Monday Night",
+  "temp": 46
+}
+{
+  "time": "Monday Night",
+  "temp": 62
+}
+{
+  "time": "Monday Night",
+  "temp": 40
+}
+{
+  "time": "Monday Night",
+  "temp": 59
+}
+{
+  "time": "Monday Night",
+  "temp": 39
+}
+{
+  "time": "Tuesday",
+  "temp": 70
+}
+{
+  "time": "Tuesday",
+  "temp": 46
+}
+{
+  "time": "Tuesday",
+  "temp": 57
+}
+{
+  "time": "Tuesday",
+  "temp": 40
+}
+{
+  "time": "Tuesday",
+  "temp": 51
+}
+{
+  "time": "Tuesday",
+  "temp": 33
+}
+{
+  "time": "Tuesday",
+  "temp": 55
+}
+{
+  "time": "Tuesday",
+  "temp": 35
+}
+{
+  "time": "Tuesday",
+  "temp": 62
+}
+{
+  "time": "Tuesday",
+  "temp": 46
+}
+{
+  "time": "Tuesday",
+  "temp": 62
+}
+{
+  "time": "Tuesday",
+  "temp": 40
+}
+{
+  "time": "Tuesday",
+  "temp": 59
+}
+{
+  "time": "Tuesday",
+  "temp": 39
+}
+{
+  "time": "Tuesday Night",
+  "temp": 70
+}
+{
+  "time": "Tuesday Night",
+  "temp": 46
+}
+{
+  "time": "Tuesday Night",
+  "temp": 57
+}
+{
+  "time": "Tuesday Night",
+  "temp": 40
+}
+{
+  "time": "Tuesday Night",
+  "temp": 51
+}
+{
+  "time": "Tuesday Night",
+  "temp": 33
+}
+{
+  "time": "Tuesday Night",
+  "temp": 55
+}
+{
+  "time": "Tuesday Night",
+  "temp": 35
+}
+{
+  "time": "Tuesday Night",
+  "temp": 62
+}
+{
+  "time": "Tuesday Night",
+  "temp": 46
+}
+{
+  "time": "Tuesday Night",
+  "temp": 62
+}
+{
+  "time": "Tuesday Night",
+  "temp": 40
+}
+{
+  "time": "Tuesday Night",
+  "temp": 59
+}
+{
+  "time": "Tuesday Night",
+  "temp": 39
+}
+{
+  "time": "Wednesday",
+  "temp": 70
+}
+{
+  "time": "Wednesday",
+  "temp": 46
+}
+{
+  "time": "Wednesday",
+  "temp": 57
+}
+{
+  "time": "Wednesday",
+  "temp": 40
+}
+{
+  "time": "Wednesday",
+  "temp": 51
+}
+{
+  "time": "Wednesday",
+  "temp": 33
+}
+{
+  "time": "Wednesday",
+  "temp": 55
+}
+{
+  "time": "Wednesday",
+  "temp": 35
+}
+{
+  "time": "Wednesday",
+  "temp": 62
+}
+{
+  "time": "Wednesday",
+  "temp": 46
+}
+{
+  "time": "Wednesday",
+  "temp": 62
+}
+{
+  "time": "Wednesday",
+  "temp": 40
+}
+{
+  "time": "Wednesday",
+  "temp": 59
+}
+{
+  "time": "Wednesday",
+  "temp": 39
+}
+{
+  "time": "Wednesday Night",
+  "temp": 70
+}
+{
+  "time": "Wednesday Night",
+  "temp": 46
+}
+{
+  "time": "Wednesday Night",
+  "temp": 57
+}
+{
+  "time": "Wednesday Night",
+  "temp": 40
+}
+{
+  "time": "Wednesday Night",
+  "temp": 51
+}
+{
+  "time": "Wednesday Night",
+  "temp": 33
+}
+{
+  "time": "Wednesday Night",
+  "temp": 55
+}
+{
+  "time": "Wednesday Night",
+  "temp": 35
+}
+{
+  "time": "Wednesday Night",
+  "temp": 62
+}
+{
+  "time": "Wednesday Night",
+  "temp": 46
+}
+{
+  "time": "Wednesday Night",
+  "temp": 62
+}
+{
+  "time": "Wednesday Night",
+  "temp": 40
+}
+{
+  "time": "Wednesday Night",
+  "temp": 59
+}
+{
+  "time": "Wednesday Night",
+  "temp": 39
+}
