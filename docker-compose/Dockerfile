@@ -7,7 +7,7 @@ RUN dnf -y update && \
     dnf clean all
 
 # Copy custom web content (optional)
-COPY ./index.html /var/www/html/index.html
+COPY . /var/www/html/index.html
 
 # Expose HTTP port
 EXPOSE 80
