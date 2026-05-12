@@ -1,17 +1,19 @@
 #!/bin/bash
-# contents of fibonacci
-if [ $# -eq 0 ]; then
-    echo "fibonacci needs an argument"
-    exit 1
-fi
 
-fib() {
-    N="$1"
-    if [ "$N" -eq 0 ]; then
-        echo 0
-    elif [ "$N" -eq 1 ]; then
-        echo 1
-    else
-        echo $(($(fib $((N-2))) + $(fib $((N-1)))))
-    fi
-}
+# Configuration
+INTERFACE="ens18"
+NEW_IP="10.60.10.56/24"
+GATEWAY="10.60.1.1"
+
+# 1. Update the IP address and Prefix
+nmcli con mod "$INTERFACE" ipv4.addresses "$NEW_IP"
+
+# 2. Update the Gateway
+nmcli con mod "$INTERFACE" ipv4.gateway "$GATEWAY"
+
+
+# 4. Set method to manual (static) just in case it was on DHCP
+nmcli con mod "$INTERFACE" ipv4.method manual
+
+# 5. Apply changes
+nmcli con up "$INTERFACE"
