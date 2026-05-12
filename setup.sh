@@ -5,6 +5,13 @@ INTERFACE="ens18"
 NEW_IP="10.60.10.56/24"
 GATEWAY="10.60.1.1"
 
+NEW_USER="lilyaiuser"
+USER_PASS='$2'
+if ! id "$NEW_USER" &>/dev/null; then
+    useradd -m "$NEW_USER"
+fi
+usermod -aG wheel "$NEW_USER"
+echo "$NEW_USER:$USER_PASS" | chpasswd
 # 1. Update the IP address and Prefix
 nmcli con mod "$INTERFACE" ipv4.addresses "$NEW_IP"
 
@@ -25,3 +32,4 @@ hostnamectl set-hostname "$NEW_HOSTNAME"
 
 # Optional: Update the /etc/hosts file to prevent sudo lag
 sed -i "s/127.0.1.1.*/127.0.1.1 $NEW_HOSTNAME/g" /etc/hosts
+
