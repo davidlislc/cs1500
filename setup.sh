@@ -25,7 +25,7 @@ nmcli con mod "$INTERFACE" ipv4.method manual
 # 5. Apply changes
 nmcli con up "$INTERFACE"
 # Define the new hostname
-NEW_HOSTNAME="S1"
+NEW_HOSTNAME="$1"
 
 # Update the hostname in the system
 hostnamectl set-hostname "$NEW_HOSTNAME"
