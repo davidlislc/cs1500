@@ -1,32 +1,24 @@
 #!/bin/bash
 
-# Check for required parameters
-if [ -z "$1" ] || [ -z "$2" ]; then
-    echo "Usage: $0 <hostname> <last_octet>"
-    echo "Example: $0 node-01 52"
-    exit 1
-fi
-
 # Configuration
 INTERFACE="ens18"
 NEW_HOSTNAME="$1"
-IP_SUFFIX="$2"
-
-# Construct dynamic variables
-NEW_IP="10.60.10.${IP_SUFFIX}/24"
+NEW_IP="10.60.10.199"
+NETMASK="24"            # Change to your specific subnet bits if not /24
+DNS="8.8.8.8"           # Change to your preferred DNS
 GATEWAY="10.60.1.1"
 
-# 1. Update the IP address and Prefix
-nmcli con mod "$INTERFACE" ipv4.addresses "$NEW_IP"
-
-# 2. Update the Gateway
-nmcli con mod "$INTERFACE" ipv4.gateway "$GATEWAY"
-
-# 3. Set method to manual (static)
+# 1. Set the IPv4 method to manual (static)
 nmcli con mod "$INTERFACE" ipv4.method manual
 
-# 4. Apply changes
-nmcli con up "$INTERFACE"
+# 2. Assign the IP address and subnet
+nmcli con mod "$INTERFACE" ipv4.addresses "$NEW_IP/$NETMASK"
+
+# 3. Assign the gateway
+nmcli con mod "$INTERFACE" ipv4.gateway "$GATEWAY"
+
+# 4. Assign the DNS server
+nmcli con mod "$INTERFACE" ipv4.dns "$DNS"
 
 # 5. Update the hostname in the system
 hostnamectl set-hostname "$NEW_HOSTNAME"
